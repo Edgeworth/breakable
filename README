@@ -1,0 +1,13 @@
+This is a demo of my attempt at creating breakable bodies (using Box2D and gpc). 
+WASD scrolls the view, right mouse button spawns a high velocity bullet, left-mouse-drag allows manipulation of objects.
+
+
+Build instructions:
+
+Required libraries and programs:
+cmake
+libSFML
+Box2D (included)
+gpc (included)
+
+execute build.py
